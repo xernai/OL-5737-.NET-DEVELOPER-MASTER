@@ -1,0 +1,16 @@
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.exe
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.deps.json
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.runtimeconfig.json
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.runtimeconfig.dev.json
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.dll
+C:\Development\Cursos\Master\Module2\Clase01Csharp\bin\Debug\net5.0\Clase01Csharp.pdb
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.csproj.AssemblyReference.cache
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.AssemblyInfoInputs.cache
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.AssemblyInfo.cs
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.csproj.CoreCompileInputs.cache
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.dll
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\refint\Clase01Csharp.dll
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.pdb
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\Clase01Csharp.genruntimeconfig.cache
+C:\Development\Cursos\Master\Module2\Clase01Csharp\obj\Debug\net5.0\ref\Clase01Csharp.dll
