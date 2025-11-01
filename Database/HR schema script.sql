@@ -1,9 +1,4 @@
-USE master
-GO
-CREATE DATABASE HR
-GO
-USE HR
-GO
+
 CREATE TABLE Departments
 (
 Deptno int NOT NULL
