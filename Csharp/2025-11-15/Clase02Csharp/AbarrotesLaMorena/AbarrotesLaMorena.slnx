@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AbarrotesLaMorena.ClientesAdmin.Console/AbarrotesLaMorena.ClientesAdmin.ConsoleApp.csproj" Id="dca31b30-162f-4635-9e1d-5b54d8ed26d7" />
+  <Project Path="AbarrotesLaMorena.Domain/AbarrotesLaMorena.Domain.csproj" />
+  <Project Path="AbarrotesLaMorena.Helper/AbarrotesLaMorena.Helper.csproj" Id="27508511-c1d8-4b26-9f6c-6f880aff9bbf" />
+</Solution>

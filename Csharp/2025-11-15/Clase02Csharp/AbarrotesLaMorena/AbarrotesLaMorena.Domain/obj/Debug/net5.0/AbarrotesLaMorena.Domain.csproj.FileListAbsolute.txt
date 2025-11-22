@@ -1,0 +1,12 @@
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\bin\Debug\net5.0\AbarrotesLaMorena.Domain.deps.json
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\bin\Debug\net5.0\AbarrotesLaMorena.Domain.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\bin\Debug\net5.0\AbarrotesLaMorena.Domain.pdb
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.AssemblyInfoInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.AssemblyInfo.cs
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.csproj.CoreCompileInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.sourcelink.json
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\refint\AbarrotesLaMorena.Domain.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\AbarrotesLaMorena.Domain.pdb
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Domain\obj\Debug\net5.0\ref\AbarrotesLaMorena.Domain.dll

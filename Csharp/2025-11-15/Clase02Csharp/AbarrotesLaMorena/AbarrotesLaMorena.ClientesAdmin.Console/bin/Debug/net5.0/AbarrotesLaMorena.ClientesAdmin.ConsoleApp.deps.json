@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbarrotesLaMorena.ClientesAdmin.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "AbarrotesLaMorena.Domain": "1.0.0",
+          "AbarrotesLaMorena.Helper": "1.0.0"
+        },
+        "runtime": {
+          "AbarrotesLaMorena.ClientesAdmin.ConsoleApp.dll": {}
+        }
+      },
+      "AbarrotesLaMorena.Domain/1.0.0": {
+        "runtime": {
+          "AbarrotesLaMorena.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AbarrotesLaMorena.Helper/1.0.0": {
+        "runtime": {
+          "AbarrotesLaMorena.Helper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbarrotesLaMorena.ClientesAdmin.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbarrotesLaMorena.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbarrotesLaMorena.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

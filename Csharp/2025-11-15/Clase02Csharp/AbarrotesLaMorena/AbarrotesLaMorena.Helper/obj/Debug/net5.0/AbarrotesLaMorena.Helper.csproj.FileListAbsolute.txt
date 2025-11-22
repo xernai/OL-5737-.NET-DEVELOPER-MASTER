@@ -1,0 +1,12 @@
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\bin\Debug\net5.0\AbarrotesLaMorena.Helper.deps.json
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\bin\Debug\net5.0\AbarrotesLaMorena.Helper.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\bin\Debug\net5.0\AbarrotesLaMorena.Helper.pdb
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.AssemblyInfoInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.AssemblyInfo.cs
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.csproj.CoreCompileInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.sourcelink.json
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\refint\AbarrotesLaMorena.Helper.dll
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\AbarrotesLaMorena.Helper.pdb
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.Helper\obj\Debug\net5.0\ref\AbarrotesLaMorena.Helper.dll

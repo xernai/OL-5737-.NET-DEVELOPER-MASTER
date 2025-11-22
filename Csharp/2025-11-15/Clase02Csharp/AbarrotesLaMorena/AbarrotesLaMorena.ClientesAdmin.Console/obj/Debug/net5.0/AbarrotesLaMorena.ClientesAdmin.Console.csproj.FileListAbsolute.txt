@@ -1,0 +1,5 @@
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.ClientesAdmin.Console\obj\Debug\net5.0\AbarrotesLaMorena.ClientesAdmin.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.ClientesAdmin.Console\obj\Debug\net5.0\AbarrotesLaMorena.ClientesAdmin.Console.AssemblyInfoInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.ClientesAdmin.Console\obj\Debug\net5.0\AbarrotesLaMorena.ClientesAdmin.Console.AssemblyInfo.cs
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.ClientesAdmin.Console\obj\Debug\net5.0\AbarrotesLaMorena.ClientesAdmin.Console.csproj.CoreCompileInputs.cache
+C:\2025-11-15\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-15\Clase02Csharp\AbarrotesLaMorena\AbarrotesLaMorena.ClientesAdmin.Console\obj\Debug\net5.0\AbarrotesLaMorena.ClientesAdmin.Console.sourcelink.json

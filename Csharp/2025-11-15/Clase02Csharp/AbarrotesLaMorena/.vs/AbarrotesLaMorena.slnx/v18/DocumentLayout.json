@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA31B30-162F-4635-9E1D-5B54D8ED26D7}|AbarrotesLaMorena.ClientesAdmin.Console\\AbarrotesLaMorena.ClientesAdmin.ConsoleApp.csproj|c:\\2025-11-15\\ol-5737-.net-developer-master\\csharp\\2025-11-15\\clase02csharp\\abarroteslamorena\\abarroteslamorena.clientesadmin.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA31B30-162F-4635-9E1D-5B54D8ED26D7}|AbarrotesLaMorena.ClientesAdmin.Console\\AbarrotesLaMorena.ClientesAdmin.ConsoleApp.csproj|solutionrelative:abarroteslamorena.clientesadmin.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27508511-C1D8-4B26-9F6C-6F880AFF9BBF}|AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj|c:\\2025-11-15\\ol-5737-.net-developer-master\\csharp\\2025-11-15\\clase02csharp\\abarroteslamorena\\abarroteslamorena.helper\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27508511-C1D8-4B26-9F6C-6F880AFF9BBF}|AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj|solutionrelative:abarroteslamorena.helper\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27508511-C1D8-4B26-9F6C-6F880AFF9BBF}|AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj|c:\\2025-11-15\\ol-5737-.net-developer-master\\csharp\\2025-11-15\\clase02csharp\\abarroteslamorena\\abarroteslamorena.helper\\abarroteslamorena.helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27508511-C1D8-4B26-9F6C-6F880AFF9BBF}|AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj|solutionrelative:abarroteslamorena.helper\\abarroteslamorena.helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbarrotesLaMorena.Helper.csproj",
+              "DocumentMoniker": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj",
+              "RelativeDocumentMoniker": "AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj",
+              "ToolTip": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj",
+              "RelativeToolTip": "AbarrotesLaMorena.Helper\\AbarrotesLaMorena.Helper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T16:36:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.Helper\\Calculadora.cs",
+              "RelativeDocumentMoniker": "AbarrotesLaMorena.Helper\\Calculadora.cs",
+              "ToolTip": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.Helper\\Calculadora.cs",
+              "RelativeToolTip": "AbarrotesLaMorena.Helper\\Calculadora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:34:54.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.ClientesAdmin.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AbarrotesLaMorena.ClientesAdmin.Console\\Program.cs",
+              "ToolTip": "C:\\2025-11-15\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-15\\Clase02Csharp\\AbarrotesLaMorena\\AbarrotesLaMorena.ClientesAdmin.Console\\Program.cs",
+              "RelativeToolTip": "AbarrotesLaMorena.ClientesAdmin.Console\\Program.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwJ4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:23:54.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
