@@ -1,0 +1,11 @@
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Maizena.Clientes.WebApi.exe
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Maizena.Clientes.WebApi.dll
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Maizena.Clientes.WebApi.deps.json
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Maizena.Clientes.WebApi.runtimeconfig.json
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Maizena.Clientes.WebApi.pdb
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\2025-11-29\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-29\Maizena\Maizena.Clientes.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2025-11-29T18:00:27.9997275Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-tesmon-openai-rg"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "3a149b23-74af-48bc-a3b8-0185685179a0"
+    }
+  }
+}
