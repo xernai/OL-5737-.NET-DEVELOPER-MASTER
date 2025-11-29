@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.clienteswinapp\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A22C76E-EEFB-4629-AE48-D95F2D28969A}|Gigante.Ventas.DomainTests\\Gigante.Ventas.DomainTests.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.clienteswinapp\\gigante.ventas.domaintests\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A22C76E-EEFB-4629-AE48-D95F2D28969A}|Gigante.Ventas.DomainTests\\Gigante.Ventas.DomainTests.csproj|solutionrelative:gigante.ventas.domaintests\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.clienteswinapp\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\rootcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\pagoonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.clienteswinapp\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6421CC1D-DB14-45F5-8A7F-92A1C98D83AA}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185CEEB3-8769-453D-9208-84F68E8F5D15}|..\\Gigante.Ventas.ClientesConsoleApp\\Gigante.Ventas.ClientesConsoleApp.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.clientesconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\pagosmanejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\pagosefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\interfaces\\ipaypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\interfaces\\ipagosmanejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\interfaces\\ipagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D052BD0A-1D23-4124-89EC-828C5C67961A}|..\\Gigante.Ventas.Domain\\Gigante.Ventas.Domain.csproj|c:\\2025-11-22\\ol-5737-.net-developer-master\\csharp\\2025-11-22\\gigante\\gigante.ventas.domain\\interfaces\\iclientesvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:488872162:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraTests.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\Gigante.Ventas.DomainTests\\CalculadoraTests.cs",
+              "RelativeDocumentMoniker": "Gigante.Ventas.DomainTests\\CalculadoraTests.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\Gigante.Ventas.DomainTests\\CalculadoraTests.cs",
+              "RelativeToolTip": "Gigante.Ventas.DomainTests\\CalculadoraTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:50:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Calculadora.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Calculadora.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Calculadora.cs*",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Calculadora.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:44:38.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:37:15.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:07:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesWinApp\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:07:27.421Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RootContainer.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\RootContainer.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\RootContainer.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\RootContainer.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\RootContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:48:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPagos.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPagos.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Interfaces\\IPagos.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPagos.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Interfaces\\IPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:43:23.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPagosManejo.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPagosManejo.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Interfaces\\IPagosManejo.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPagosManejo.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Interfaces\\IPagosManejo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:37:26.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClientesVIP.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IClientesVIP.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Interfaces\\IClientesVIP.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IClientesVIP.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Interfaces\\IClientesVIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:24:19.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaypal.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPaypal.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Interfaces\\IPaypal.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Interfaces\\IPaypal.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Interfaces\\IPaypal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:50:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagoOnline.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagoOnline.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\PagoOnline.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagoOnline.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\PagoOnline.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:46:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Pagos.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Pagos.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Pagos.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Pagos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:38:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagosEfectivo.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagosEfectivo.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\PagosEfectivo.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagosEfectivo.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\PagosEfectivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:37:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.ClientesConsoleApp\\Program.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.ClientesConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.ClientesConsoleApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABEwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:33:55.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagosManejo.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagosManejo.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\PagosManejo.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\PagosManejo.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\PagosManejo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:30:38.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Clientes.cs",
+              "RelativeDocumentMoniker": "..\\Gigante.Ventas.Domain\\Clientes.cs",
+              "ToolTip": "C:\\2025-11-22\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-22\\Gigante\\Gigante.Ventas.Domain\\Clientes.cs",
+              "RelativeToolTip": "..\\Gigante.Ventas.Domain\\Clientes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:29:14.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

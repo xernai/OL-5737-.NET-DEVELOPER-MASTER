@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Gigante.Ventas.Domain.Interfaces
+{
+    public interface IClientesVIP
+    {
+        string ObtenerFolioPaypalVIP(decimal clienteId);
+    }
+}

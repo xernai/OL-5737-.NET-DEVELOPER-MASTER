@@ -1,0 +1,17 @@
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.ClientesWinApp\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

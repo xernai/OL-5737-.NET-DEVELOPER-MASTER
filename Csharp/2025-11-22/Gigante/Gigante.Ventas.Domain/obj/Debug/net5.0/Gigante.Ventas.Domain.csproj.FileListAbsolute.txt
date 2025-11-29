@@ -1,0 +1,12 @@
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\bin\Debug\net5.0\Gigante.Ventas.Domain.deps.json
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\bin\Debug\net5.0\Gigante.Ventas.Domain.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\bin\Debug\net5.0\Gigante.Ventas.Domain.pdb
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.AssemblyInfoInputs.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.AssemblyInfo.cs
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.csproj.CoreCompileInputs.cache
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.sourcelink.json
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\refint\Gigante.Ventas.Domain.dll
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\Gigante.Ventas.Domain.pdb
+C:\2025-11-22\OL-5737-.NET-DEVELOPER-MASTER\Csharp\2025-11-22\Gigante\Gigante.Ventas.Domain\obj\Debug\net5.0\ref\Gigante.Ventas.Domain.dll
