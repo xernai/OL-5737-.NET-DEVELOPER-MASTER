@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeePelS8Gws=",
+  "success": true,
+  "projectFilePath": "C:\\2025-11-29\\OL-5737-.NET-DEVELOPER-MASTER\\Csharp\\2025-11-29\\Maizena\\Maizena.Clientes.MinimalWebApi\\Maizena.Clientes.MinimalWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

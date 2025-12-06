@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Maizena.Clientes.MinimalWebApi.props" />
+</Project>
