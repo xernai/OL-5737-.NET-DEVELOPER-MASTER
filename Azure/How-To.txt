@@ -1,0 +1,158 @@
+1. Create a new project
+   Azure Functions
+2. Configure your new function
+   2.1 Configure your new project
+   2.1.1 Project name
+		 AzureBlobTriggerFunction
+   2.1.2 Location
+         Choose path
+   2.1.3 Solution name
+         Choose one name
+3. Provide Additional information
+   3.1 Functions worker
+       .NET 6.0 or 8.0
+   3.2 Function
+       Blob trigger
+       3.2.1 Select Use Azurite for runtime storage account (AzureWebJobsStorage)
+       3.2.2 Connection string setting name
+             AzureBlobStorageKey
+       3.2.3 Path
+             name of container
+       3.2.4 Select Configure dependencies
+4. Add NuGet Packages
+   <ItemGroup>
+    <PackageReference Include="Azure.Data.Tables" Version="12.10.0" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="5.3.2" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.5.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+5. Create a new Blob Details class
+
+    5.1 Clase para SQL Server 
+
+        using System;
+        using System.Collections.Generic;
+        using System.Linq;
+        using System.Text;
+        using System.Threading.Tasks;
+
+        namespace AzureBlobTriggerFunction
+        {
+
+                public class BlobDetails
+                {
+                    public Guid Id { get; set; }
+                    public string FileName { get; set; }
+                    public bool isFileUploaded { get; set; }
+                    public DateTime DateOfUpdation { get; set; }
+                }
+
+        }
+
+    5.2 Clase para Storage Table
+        public class FileDetailsEntity : Azure.Data.Tables.ITableEntity
+        {
+            public string PartitionKey { get; set; }
+            public string RowKey { get; set; }
+            public string FileName { get; set; }
+            public bool isFileUploaded { get; set; }
+            public DateTime DateOfUpdation { get; set; }
+            public DateTimeOffset? Timestamp { get; set; }
+            public ETag ETag { get; set; }
+        }
+
+6. Add blob storage connection string inside the local setting JSON file
+   {
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "AzureBlobStorageKey": ""
+    }
+   }
+
+   {
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "AzureBlobStorage": "",
+        "AzureLocalStorage": ""
+    }
+   }   
+
+7.  Add the following code inside the function 
+using System;
+using System.IO;
+using Microsoft.Azure.WebJobs;
+using Microsoft.Azure.WebJobs.Host;
+using Microsoft.Extensions.Logging;
+using Azure.Data.Tables;
+using Azure;
+using System.Data.SqlClient;
+
+namespace AzureBlobStorageDemo.BlobTriggerFunction
+{
+    public class FileDetailsEntity : ITableEntity
+    {
+        public string PartitionKey { get; set; }
+        public string RowKey { get; set; }
+        public string FileName { get; set; }
+        public bool isFileUploaded { get; set; }
+        public DateTime DateOfUpdation { get; set; }
+        public DateTimeOffset? Timestamp { get; set; }
+        public ETag ETag { get; set; }
+    }
+    public class FileDetailsBlobTrigger
+    {
+        [FunctionName("FileDetailsBlobTrigger")]
+        public void Run([BlobTrigger("carimages/{name}", Connection = "AzureLocalStorageKey")]Stream myBlob, string name, ILogger log)
+        {
+            log.LogInformation($"C# Blob trigger function Processed blob\n Name:{name} \n Size: {myBlob.Length} Bytes");
+
+            var connectionString = "";
+            var tableName = "FileDetails";
+
+            var client = new TableClient(connectionString, tableName);
+            // Create the table if it doesn't already exist to verify we've successfully authenticated.
+            client.CreateIfNotExists();
+
+            AddEntity(client, name, true, DateTime.UtcNow);
+
+            //
+            using (SqlConnection conn = new SqlConnection(""))
+            {
+                conn.Open();
+
+                var insertQuery = $"INSERT INTO [BlobDetails] (FileName,isFileUploaded,DateOfUpdation) VALUES('{name}', '{true}' , '{DateTime.UtcNow}')";
+
+                using (SqlCommand cmd = new SqlCommand(insertQuery, conn))
+                {
+                    var rows = cmd.ExecuteNonQuery();
+                    log.LogInformation($"{rows} rows were updated");
+                }
+            }
+        }
+
+        static void AddEntity(TableClient client, string fileName, bool isFileUploaded, DateTime dateOfUpdation)
+        {
+            FileDetailsEntity fileDetailsEntity = new FileDetailsEntity
+            {
+
+                PartitionKey = "FileDetails",
+                RowKey = Guid.NewGuid().ToString(),
+                FileName = fileName,
+                isFileUploaded = isFileUploaded,
+                DateOfUpdation = dateOfUpdation
+
+            };
+            client.AddEntity(fileDetailsEntity);
+        }
+    }
+}
+
+8. Run your function application
+
+9. Upload a file using the Web API application
