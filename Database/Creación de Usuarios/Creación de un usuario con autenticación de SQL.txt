@@ -1,0 +1,40 @@
+Creación de un usuario con autenticación de SQL
+
+Este método implica dos pasos: primero, crear un inicio de sesión a nivel del servidor (en la base de datos master) y, 
+luego, crear un usuario asociado a ese inicio de sesión en la base de datos específica. 
+
+Paso 1: Crear el inicio de sesión en la base de datos master 
+
+Conéctate a tu servidor de Azure SQL Database usando SSMS con la cuenta de administrador del servidor.
+Abre una nueva ventana de consulta en la base de datos master.
+
+Ejecuta el siguiente comando T-SQL para crear el inicio de sesión.
+
+sql
+CREATE LOGIN [nombre_login] WITH PASSWORD = 'TuContraseñaSegura123!';
+Usa el código con precaución.
+
+Reemplaza [nombre_login] y 'TuContraseñaSegura123!' con el nombre de usuario y la contraseña deseados. 
+
+Paso 2: Crear el usuario en tu base de datos específica 
+
+	1. Abre una nueva ventana de consulta y conéctate a la base de datos donde deseas que el usuario tenga acceso (no la base de datos master).
+	
+	2. Crea el usuario mapeado al inicio de sesión que creaste en el paso anterior.
+	
+	sql
+	CREATE USER [nombre_usuario] FOR LOGIN [nombre_login];
+	Usa el código con precaución.
+
+	3. Opcional: Asigna roles al usuario para definir sus permisos, como db_datareader (solo lectura) o db_datawriter (escritura).
+
+	sql
+	ALTER ROLE db_datareader ADD MEMBER [nombre_usuario];
+	ALTER ROLE db_datawriter ADD MEMBER [nombre_usuario];
+	Usa el código con precaución.
+
+	4. Si se prefiere usar (usarlo con cuidado ya que se otorgan amplios privilegios,
+       veáse https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/database-level-roles?view=sql-server-ver17)
+
+	sql
+	ALTER ROLE db_owner ADD MEMBER [nombre_usuario];

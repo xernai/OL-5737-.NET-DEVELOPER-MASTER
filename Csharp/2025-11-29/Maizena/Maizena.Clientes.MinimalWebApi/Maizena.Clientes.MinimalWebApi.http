@@ -1,0 +1,6 @@
+@Maizena.Clientes.MinimalWebApi_HostAddress = http://localhost:5207
+
+GET {{Maizena.Clientes.MinimalWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
